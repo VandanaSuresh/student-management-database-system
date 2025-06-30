@@ -18,3 +18,6 @@ logout.php: User logout.
 sql/database.sql: Database schema.
 view_attendance.php: View attendance records.
 view_students.php: Display student list.
+
+
+####http://localhost/student_management_system
